@@ -6,4 +6,4 @@ Futurists predict that the future of AI foresees the emergence of AGI, Artificia
 Tools Used:
 - [Neural Style Transfer Algorithm - deepart.io](https://deepart.io/)   
 
-[Project Documentation](https://docs.google.com/document/d/1pDRqSWqblteE3h9-fjGni2GMQzmd_t7jgIAPsIK9_JU/edit)   
+[Project Documentation](https://docs.google.com/document/d/1pDRqSWqblteE3h9-fjGni2GMQzmd_t7jgIAPsIK9_JU/edit?usp=sharing)   
