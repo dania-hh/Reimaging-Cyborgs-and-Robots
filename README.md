@@ -5,5 +5,6 @@ What does the future of enhancing human beings through AI look like, the future 
 
 Tools Used:
 - [Neural Style Transfer Algorithm - deepart.io](https://deepart.io/)   
+- [StyleGan2]()
 
 [Documentation](https://docs.google.com/document/d/1pDRqSWqblteE3h9-fjGni2GMQzmd_t7jgIAPsIK9_JU/edit?usp=sharing)   
